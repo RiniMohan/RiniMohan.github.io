@@ -1,1 +1,18 @@
+title: Rini Mohan's Portfolio
+description: A showcase of all my blogs and articles.
+url: "https://RiniMohan.github.io" 
+theme: minima
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:year/:month/:day/:title.html
+
+# Author settings
+author:
+  name: "Rini Mohan"
+  email: "mdharini98@gmail.com"
+
+# Plugins
+plugins:
+  - jekyll-feed
 
